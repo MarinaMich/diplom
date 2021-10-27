@@ -1,0 +1,18 @@
+{
+	"require":{
+		"league/plates": "^3.3",
+		"aura/sqlquery": "^2.7",
+		"kint-php/kint": "^3.3",
+		"tamtamchik/simple-flash": "^2.0",
+		"nikic/fast-route": "^1.3",
+		"delight-im/auth": "^8.3",
+		"fzaninotto/faker": "^1.9",
+		"php-di/php-di": "^5.4",
+		"jasongrimes/paginator": "^1.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"app\\": "app/"
+		}
+	}
+}
